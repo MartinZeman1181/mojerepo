@@ -1,1 +1,1 @@
-Nazdar
+Založení mého prvního projektu
